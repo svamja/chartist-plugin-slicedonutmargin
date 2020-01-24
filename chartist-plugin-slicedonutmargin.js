@@ -43,7 +43,7 @@
                 // Adding the pie series value to the path
                 path.attr({
                   'value': data.value
-                }, Chartist.xmlNs.uri);
+                }, Chartist.namespaces.xmlns);
 
                 // If this is a donut, we add the stroke-width as style attribute
                   path.attr({
