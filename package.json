@@ -1,0 +1,19 @@
+{
+  "name": "chartist-plugin-slicedonutmargin",
+  "description": "Chartlist Plugin for Padding inside Donut between Segments",
+  "version": "1.0",
+  "main": "chartist-plugin-slicedonutmargin.js",
+  "keywords": [
+    "chartlist",
+    "plugin",
+    "donut",
+    "margin",
+    "padding"
+  ],
+  "homepage": "https://github.com/jeromeWeb/chartist-plugin-slicedonutmargin",
+  "author": "Jérôme Weber",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svamja/chartist-plugin-slicedonutmargin.git"
+  },
+}
